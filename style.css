@@ -1,5 +1,5 @@
 body{
- background-image:url("img/shehhh.jpg");
+ background-image:url("img/plant.jpg");
  background-size:cover;
  background-position:center;
  background-repeat: no-repeat;
@@ -13,18 +13,18 @@ background-color: #c92626;
     }
     
     th {
- background-color: #eeaede;
- color: rgb(3, 3, 3);
+ background-color: #ee9a2dc4;
+ color: rgb(236, 223, 223);
     }
     
     td {
- color: #2c3135;
- background-color: #beddb7d2;
+ color: #fcfeff;
+ background-color: #00000083;
 
     }
     
     p {
- color: #a762a1;
+ color: #e1e452cc;
      font-size: 14px;
     }
     
@@ -35,6 +35,7 @@ background-color: #c92626;
  font-family: 'Montserrat', sans-serif;
  border-radius: 20px;
  border: 10px;
+ 
 border-color: #ffffff;
  text-align: center;
 
@@ -57,7 +58,7 @@ border-color: #ffffff;
     input {
  font-family: 'Montserrat', sans-serif;
 border-radius: 20px;
-border: 1px dashed #fffcfc;
+border: 1px dashed#995555;
  width: 200px;
 height: 10px;
 padding: 10px;
@@ -71,13 +72,14 @@ align-content: center;
     
     form {
 width: 250px;
- background-color: #64fa0075;
+ background-color: #130e0e00;
 text-align: center;
     }
     
     .form button {
 background-color: #62a7df;
  color: #cccccc;
+ margin-top: 20px;
     }
     
     button {
@@ -133,7 +135,7 @@ background-color: #62a7df;
       --enhanced-glow-color: rgb(231, 206, 255);
       --btn-color: rgb(100, 61, 136);
       border: .20em solid var(--glow-color);
-      padding: 2em 4em;
+      padding: 1em 4em;
       color: var(--glow-color);
       font-size: 10px;
       font-weight: bold;
